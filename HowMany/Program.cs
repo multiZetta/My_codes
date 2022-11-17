@@ -3,7 +3,7 @@
 // сколько раз встречается тот или иной элемент (надо доделать до конца!)
 
 
-string Solve(int[] dataNumbers)
+/* string Solve(int[] dataNumbers)
 {
     if (dataNumbers.Length == 0) return "пусто было";
     string output = String.Empty;
@@ -27,5 +27,5 @@ string Solve(int[] dataNumbers)
         }
     }
     return output;
-}
+} */
 

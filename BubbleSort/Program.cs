@@ -51,13 +51,11 @@ void BubblerSort(int[,] array)
                         array[i, j] = array[k, l];
                         array[k, l] = x;
                     }
-
                 }
             }
         }
     }
 }
-
 //Решение.
 
 int[,] array = createArray(5, 5);
